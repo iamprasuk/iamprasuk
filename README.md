@@ -1,7 +1,7 @@
 ### Hello! I Am Prasuk Jain 👋
 
 - 🔭 I’m currently working as a Student.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning python.
 - 💬 Ask me about programming.
 - 📫 How to reach me: 
      Instagram - [i_am_prasuk](https://www.instagram.com/i_am_prasuk/) 
